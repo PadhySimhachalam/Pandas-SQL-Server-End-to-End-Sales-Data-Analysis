@@ -51,8 +51,7 @@ Walkthrough of Key Analysis
 Insights
 ----------------------------------------------------------------------------
 Revenue Drivers
-  – Top-selling products dominate sales contribution.
-  
+  – Top-selling products dominate sales contribution.  
 Regional Leaders
   – Certain products are top-performers only in specific regions.
 Seasonal Sales Trends 
