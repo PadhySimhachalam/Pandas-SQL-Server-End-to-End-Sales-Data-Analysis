@@ -4,7 +4,7 @@
 -  A dynamic data analysis project built to clean, transform, and analyze retail sales data using Python (Pandas) and SQL Server.
 - This project focuses on generating actionable insights across products, regions, categories, and time periods by combining Python ETL processes with SQL-based      analytics.
 
-Short Description
+Description
 -------------------------------------------------------------------------
 - The Retail Orders Data Analysis Project is a complete data pipeline that transforms raw CSV data into structured insights.
 - It helps to track sales, profit, discounts, product performance, and regional sales growth while identifying trends and opportunities.
@@ -50,10 +50,14 @@ Walkthrough of Key Analysis
 
 Insights
 ----------------------------------------------------------------------------
-Revenue Drivers – Top-selling products dominate sales contribution.
-Regional Leaders – Certain products are top-performers only in specific regions.
-Seasonal Sales Trends – Year-over-year sales comparison reveals demand cycles.
-
-Category Peaks – Each category has unique high-performing months.
-
-Profitability Growth – Some subcategories show significant profit improvement in 2023.
+Revenue Drivers
+  – Top-selling products dominate sales contribution.
+  
+Regional Leaders
+  – Certain products are top-performers only in specific regions.
+Seasonal Sales Trends 
+  – Year-over-year sales comparison reveals demand cycles.
+Category Peaks
+  – Each category has unique high-performing months.
+Profitability Growth
+  – Some subcategories show significant profit improvement in 2023.
