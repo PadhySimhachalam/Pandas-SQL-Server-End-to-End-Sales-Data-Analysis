@@ -50,13 +50,14 @@ Walkthrough of Key Analysis
 
 Insights
 ----------------------------------------------------------------------------
-Revenue Drivers
+
+- Revenue Drivers
   – Top-selling products dominate sales contribution.  
-Regional Leaders
+- Regional Leaders
   – Certain products are top-performers only in specific regions.
-Seasonal Sales Trends 
+- Seasonal Sales Trends 
   – Year-over-year sales comparison reveals demand cycles.
-Category Peaks
+- Category Peaks
   – Each category has unique high-performing months.
-Profitability Growth
+- Profitability Growth
   – Some subcategories show significant profit improvement in 2023.
