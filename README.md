@@ -4,11 +4,6 @@
 -  A dynamic data analysis project built to clean, transform, and analyze retail sales data using Python (Pandas) and SQL Server.
 - This project focuses on generating actionable insights across products, regions, categories, and time periods by combining Python ETL processes with SQL-based      analytics.
 
-Description
--------------------------------------------------------------------------
-- The Retail Orders Data Analysis Project is a complete data pipeline that transforms raw CSV data into structured insights.
-- It helps to track sales, profit, discounts, product performance, and regional sales growth while identifying trends and opportunities.
-
 Tech Stack
 -------------------------------------------------------------------------
 - Python (Pandas) – Data cleaning, transformation, and feature engineering
